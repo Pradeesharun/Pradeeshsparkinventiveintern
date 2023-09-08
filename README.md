@@ -4,3 +4,4 @@
 31-08 how to download illustrator and figma. 
 01-09 Basics of figma. 
 07-09 introduction to plugins
+08-09 introduction to alignments
